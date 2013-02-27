@@ -31,3 +31,8 @@ function found3() {
   document.getElementById('imgContent2').style.display='none';
   document.getElementById('imgContent3').style.display='inline';
 }
+
+function next() {
+  document.getElementById('imgContent2').style.display='none';
+  document.getElementById('imgContent3').style.display='inline';
+}
